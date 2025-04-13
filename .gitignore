@@ -1,3 +1,29 @@
+# Root files are too large
+data/input
+data/output
+data/score
+data/*.bak
+
+# Log files
+logs
+
+# Temporary files
+data/temp
+src/py/temp
+src/root/temp
+
+# symbolic link to the root header files
+src/root/rootheaders
+
+# symbolic link to the storage
+storage
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

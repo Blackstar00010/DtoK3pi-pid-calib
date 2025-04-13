@@ -1,0 +1,58 @@
+.
+├── audio
+│   ├── 440.mp3
+│   ├── damn_fulldb.mp3
+│   ├── damn.mp3
+│   ├── nice_fulldb.mp3
+│   ├── nice.mp3
+│   ├── no_fulldb.mp3
+│   └── no.mp3
+├── input
+│   ├── long_core.root
+│   ├── long.root
+│   ├── mc
+│   │   ├── mc.csv
+│   │   ├── mc_proced_100.root
+│   │   ├── mc_proced_10.root
+│   │   ├── mc_proced_20.root
+│   │   ├── mc_proced_2.root
+│   │   ├── mc_proced_50.root
+│   │   ├── mc_proced_5.root
+│   │   ├── mc_proced_all.root
+│   │   ├── mc.root
+│   │   ├── md1.root
+│   │   ├── md2.root
+│   │   ├── md3.root
+│   │   ├── mu1.root
+│   │   ├── mu2.root
+│   │   └── mu3.root
+│   └── synmc
+├── output
+│   ├── sWeights.root
+│   ├── sWeights.root.bak
+│   └── sWeights_sorted.root
+├── _samples
+│   ├── full.csv
+│   ├── long_with_prob.csv
+│   ├── mc.csv
+│   ├── mc_proced_100.csv
+│   ├── mc_proced_10.csv
+│   ├── mc_proced_1.csv
+│   ├── mc_proced_20.csv
+│   ├── mc_proced_2.csv
+│   ├── mc_proced_50.csv
+│   ├── mc_proced_5.csv
+│   ├── mc_proced_all.csv
+│   ├── md1.csv
+│   ├── md2.csv
+│   ├── md3.csv
+│   ├── mu1.csv
+│   ├── mu2.csv
+│   ├── mu3.csv
+│   ├── proba_long.csv
+│   ├── proba_tt.csv
+│   └── sample.csv
+├── score
+│   └── long_with_prob.root
+└── structure.txt
+
